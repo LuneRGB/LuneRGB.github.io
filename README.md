@@ -1,3 +1,3 @@
-<lk> <a href = "http://Lune-rgb.github.io">Lune-rgb.github.io</a></lk>
+<lk> <a href = "http://LuneRGB.github.io">LuneRGB.github.io</a></lk>
 
 Personal Website
